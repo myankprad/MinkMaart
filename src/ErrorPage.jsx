@@ -7,12 +7,10 @@ const ErrorPage = () => {
     <Wrapper>
       <div className="container">
         <div>
-          <h2>404</h2>
+          <h2>Error 404</h2>
           <h3>UH OH! You're lost.</h3>
           <p>
-            The page you are looking for does not exist. How you got here is a
-            mystery. But you can click the button below to go back to the
-            homepage.
+            The page you are looking for is not exist please press the home button and return to home page
           </p>
 
           <NavLink to="/">
