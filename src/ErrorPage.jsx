@@ -8,7 +8,7 @@ const ErrorPage = () => {
       <div className="container">
         <div>
           <h2>Error 404</h2>
-          <h3>UH OH! You're lost.</h3>
+          <h3>Oh no  You're lost.</h3>
           <p>
             The page you are looking for is not exist please press the home button and return to home page
           </p>
